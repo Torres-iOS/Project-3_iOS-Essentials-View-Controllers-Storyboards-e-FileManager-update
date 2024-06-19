@@ -15,3 +15,8 @@ Este projeto demonstra a implementação de View Controllers e Storyboards para 
 - **UIKit**
 
 Clone o repositório e explore as funcionalidades para entender como essas tecnologias se integram no desenvolvimento de aplicativos iOS.
+
+
+# ALERTA DE UPDATE:
+
+Esse projeto é um update do projeto 1 de modo que seja criado um botão de compartilhamento de imagens em diversas plataformas, ou no AirDrop ou salvar no próprio dispositivo no qual o projeto esteja rodando.
